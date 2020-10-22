@@ -1,0 +1,9 @@
+body{
+    font-family: 'Inconsolata', monospace;
+    background-color: red;
+}
+
+.head-img{
+    min-height: 60vh;
+    background: url(../pictures/background-pic.jpeg)center/cover no-repeat fixed;
+}
